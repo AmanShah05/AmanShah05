@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AmanShah05
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on IOT
+- 👋 Hi, I’m Aman Shah and I am Mechatronics Engineering Student at the Univerisity of Waterloo.
+- 👀 I’m interested in software development, AI, ML, IOT.
 - 📫 How to reach me ...
 
-<!---
-AmanShah05/AmanShah05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linkedin: https://www.linkedin.com/in/askaman/
+
+Website: https://amanshah.tech/
+
+Email: aman.shah@uwaterloo.ca
